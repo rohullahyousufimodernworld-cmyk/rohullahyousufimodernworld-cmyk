@@ -134,3 +134,24 @@
   Building real-world applications, learning new technologies,
   and turning ideas into reality.
 </p>
+
+---
+
+<h2 align="center">👀 Profile Visitors</h2>
+
+<div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=rohullahyousufimodernworld-cmyk&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ❤️ Thank You For Visiting My Profile!
+
+</div>
