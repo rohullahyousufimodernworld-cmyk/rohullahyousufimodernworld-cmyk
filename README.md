@@ -109,3 +109,28 @@
 *Keep Learning • Keep Coding • Keep Growing*
 
 </div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/rohullahyousufimodernworld-cmyk/etmad-dormitory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohullahyousufimodernworld-cmyk&repo=etmad-dormitory&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/rohullahyousufimodernworld-cmyk/rohullah-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohullahyousufimodernworld-cmyk&repo=rohullah-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">💡 My Development Journey</h3>
+
+<p align="center">
+  Building real-world applications, learning new technologies,
+  and turning ideas into reality.
+</p>
