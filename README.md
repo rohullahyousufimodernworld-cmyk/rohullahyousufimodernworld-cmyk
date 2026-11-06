@@ -38,6 +38,37 @@
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rohullahyousufimodernworld-cmyk&show_icons=true&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rohullahyousufimodernworld-cmyk&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rohullahyousufimodernworld-cmyk&theme=tokyo-night&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
 ## 📫 Connect With Me
 
 - GitHub: Follow my projects and contributions
