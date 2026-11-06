@@ -76,23 +76,25 @@
 
 ---
 
-## 🤝 Connect With Me
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
 <a href="https://github.com/rohullahyousufimodernworld-cmyk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:rohullahyosoufi2027@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="in/rohullah-yosoufi-20430037b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/rohullah.kali.linux?cplk=dTVreTExeGFkcXdy">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -102,8 +104,8 @@
 
 <div align="center">
 
-### 💻 Keep Learning, Keep Building!
+### 🚀 Let's Build Something Amazing Together!
 
-**Thanks for visiting my GitHub profile!**
+*Keep Learning • Keep Coding • Keep Growing*
 
 </div>
