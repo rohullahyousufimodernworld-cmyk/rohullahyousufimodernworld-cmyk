@@ -1,4 +1,11 @@
 <div align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd0bzNheDY0N3o0N2h2eGdsYWsxM2o5em92cjU5OTc3NnZlMDUyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.gif"
+    width="100%"
+    alt="Matrix Digital Rain"
+  />
+</div>
+<div align="center">
 
 # Hi, I'm Rohullah Yousufi 👋
 
